@@ -3,4 +3,5 @@ My name is Pranav Sampara
 Birthday August 20
 Favorite color: Well haha
 Another new line
-Date: 23-10-19	
+Date: 23-10-19
+Day: Wednesday	
