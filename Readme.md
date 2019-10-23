@@ -1,5 +1,5 @@
 This is a README for my first Git repo.
-My name is Pranav Sampara
+My name is Pranav
 Birthday August 20
 Favorite color: Well haha
 Another new line
